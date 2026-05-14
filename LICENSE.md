@@ -1,4 +1,4 @@
-# 
+# custom AutoHotkey for PC | AutoHotkey for Windows Extension | scripting-support + macro-recording is the best AutoHotkey for PC | AutoHotkey for Windows extension, featuring
 
 
 
